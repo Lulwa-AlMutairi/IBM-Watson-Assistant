@@ -1,2 +1,2 @@
-# IBM-Watson-Assistant
-create IBM-Watson-Assistant  ​and merge it wiht the controi page that we created before (GUI-for-robot-arm) 
+# IMB-watsen
+create imb watsen and merge it wiht the controi page that we created before
